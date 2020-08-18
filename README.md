@@ -1,4 +1,4 @@
-# Custom PID Library
+# FSerial Library
 [![license MIT](https://img.shields.io/github/license/Falcons21/FSerial)](https://github.com/Falcons21/Custom_PID/blob/master/LICENSE) [![Build Status](https://travis-ci.org/TheThingsNetwork/arduino-device-lib.svg?branch=master)](#)
 
 This is an [Arduino Library](https://www.arduino.cc/en/Guide/Libraries)
